@@ -53,7 +53,7 @@ Aspiring Data Engineer | Java Developer | SQL Enthusiast | DSA Learner
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NAREAN3929&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=NAREAN3929&theme=tokyonight&hide_border=true&cache_bust=1" alt="GitHub Streak" />
 </p>
 
 
