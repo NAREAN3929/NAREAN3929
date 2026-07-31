@@ -53,7 +53,7 @@ Aspiring Data Engineer | Java Developer | SQL Enthusiast | DSA Learner
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NAREAN3929&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAREAN3929&theme=tokyonight&hide_border=true" />
 </p>
 
 
