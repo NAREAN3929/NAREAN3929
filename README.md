@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narean karthikeyan</h1>
 
 <h3 align="center">
-Aspiring Data Engineer | Java Developer | SQL Enthusiast | DSA Learner
+Aspiring Data Engineer | SQL Enthusiast | Java Developer | DSA Learner
 </h3>
 
 ---
