@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:0F0C29,50:302B63,100:FF0080&text=Narean%20Karthikeyan%20K&fontColor=FFFFFF&fontSize=50&fontAlignY=55&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0D1117&text=Narean%20Karthikeyan%20K&fontColor=FFFFFF&fontSize=48&fontAlign=50"/>
 </p>
 
 
@@ -83,17 +83,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Narean3929&show_icons=true&theme=radical">
 
 
-
-
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Narean3929&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
-
----
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
