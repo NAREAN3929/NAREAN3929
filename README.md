@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0D1117&stroke=9D4EDD&strokeWidth=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F0C29,50:302B63,100:FF0080&text=Narean%20Karthikeyan%20K&fontColor=FFFFFF&fontSize=55&fontAlign=50&animation=fadeIn"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Narean+Karthikeyan+K"/>
-</p>
 
 
 # 🚀 About Me
