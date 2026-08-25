@@ -1,15 +1,15 @@
 <p align="center">
-<img width="100%" src=https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F0C29,50:302B63,100:FF0080&text=Narean%20karthikeyan%20K&fontColor=FFFFFF&fontSize=55&animation=fadeIn
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Narean+Karthikeyan+K;Java+Developer;DSA+Learner;Software+Engineering+Enthusiast" />
 </p>
+
 
 # 🚀 About Me
 
-- 🎓 Computer Science Engineering Student at **V.S.B College of Engineering Technical Campus**
+- 🎓 Computer Science Engineering Student
 - 💻 Passionate Java Developer
-- 🌐 Developer
 - 📚 Solving Data Structures & Algorithms on LeetCode
 - ☁️ Interested in Software Engineering
-- 🚀 Building real-world projects using Java, Html, Css and MySQL
+- 🚀 Building real-world projects using Java, HTML, CSS and MySQL
   
 ---
 # 🌐 Connect With Me
@@ -84,6 +84,14 @@
 </p>
 
 
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Narean3929&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
 
 ---
 
