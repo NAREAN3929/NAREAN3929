@@ -1,31 +1,45 @@
-<h1 align="center">Hi 👋, I'm Narean karthikeyan</h1>
+<p align="center">
+<img width="100%" src=https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F0C29,50:302B63,100:FF0080&text=Narean%20karthikeyan%20K&fontColor=FFFFFF&fontSize=55&animation=fadeIn
+</p>
 
-<h3 align="center">
-Aspiring Data Engineer | SQL Enthusiast | Java Developer | DSA Learner
-</h3>
+# 🚀 About Me
+
+- 🎓 Computer Science Engineering Student at **V.S.B College of Engineering Technical Campus**
+- 💻 Passionate Java Developer
+- 🌐 Developer
+- 📚 Solving Data Structures & Algorithms on LeetCode
+- ☁️ Interested in Software Engineering
+- 🚀 Building real-world projects using Java, Html, Css and MySQL
+  
+---
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/narean3929/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/dheeran_narean/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:narean3929@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="mailto:narean3929@outlook.com">
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### ☕ Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🔧 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode,postman" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode,eclipse&perline=6"/>
 </p>
 
 ---
@@ -55,6 +69,12 @@ Aspiring Data Engineer | SQL Enthusiast | Java Developer | DSA Learner
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAREAN3929&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
 
 
 
