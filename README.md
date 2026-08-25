@@ -1,8 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&text=Narean%20Karthikeyan%20K&fontSize=55&fontColor=FFFFFF&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:0F0C29,50:302B63,100:FF0080&text=Narean%20Karthikeyan%20K&fontColor=FFFFFF&fontSize=50&fontAlignY=55&animation=twinkling"/>
 </p>
-
-
 
 
 
