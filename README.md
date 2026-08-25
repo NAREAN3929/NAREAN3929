@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=Narean%20Karthikeyan%20K&fontSize=52&fontColor=9D4EDD&fontAlignY=45"/>
-</p>
-
-<p align="center">
-  <b>Java Developer • DSA Learner • Software Engineering Enthusiast</b>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:0B0B0F,100:17121F&text=Narean%20Karthikeyan%20K&fontColor=FFFFFF&fontSize=52&fontAlignY=55&stroke=9D4EDD&strokeWidth=4&animation=twinkling"/>
 </p>
 
 
