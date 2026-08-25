@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Narean+Karthikeyan+K;Java+Developer;DSA+Learner;Software+Engineering+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Narean+Karthikeyan+K;Java+Developer;Software+Engineer+in+Progress"/>
 </p>
+
 
 
 # 🚀 About Me
@@ -79,9 +80,8 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Narean3929&show_icons=true&theme=radical"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Narean3929&show_icons=true&theme=radical">
+
 
 
 
