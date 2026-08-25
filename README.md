@@ -69,8 +69,9 @@
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narean3929&bg_color=0D1117&color=FFFFFF&line=FF0080&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narean3929&theme=react-dark"/>
 </p>
+
 
 
 
@@ -79,7 +80,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Narean3929&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Narean3929&show_icons=true&theme=radical"/>
 </p>
 
 
