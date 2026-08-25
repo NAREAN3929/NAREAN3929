@@ -60,16 +60,18 @@
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAREAN3929&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narean3929&theme=react-dark&hide_border=true"/>
 </p>
+
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAREAN3929&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Narean3929&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 ---
 
