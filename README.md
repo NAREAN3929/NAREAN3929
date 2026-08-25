@@ -1,7 +1,10 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0D1117&text=Narean%20Karthikeyan%20K&fontColor=FFFFFF&fontSize=48&fontAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=Narean%20Karthikeyan%20K&fontSize=52&fontColor=9D4EDD&fontAlignY=45"/>
 </p>
 
+<p align="center">
+  <b>Java Developer • DSA Learner • Software Engineering Enthusiast</b>
+</p>
 
 
 # 🚀 About Me
