@@ -45,21 +45,14 @@
 
 ---
 
-# 🤖 AI Tools
+### 🤖 AI Tools
 
 <p align="left">
-<a href="https://www.anthropic.com/claude">
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
-</a>
-
-<a href="https://openai.com/codex/">
 <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-</a>
-
-<a href="https://antigravity.google/">
 <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</a>
 </p>
+
 
 ---
 
