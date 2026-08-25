@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&height=100&lines=Narean+Karthikeyan+K"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&text=Narean%20Karthikeyan%20K&fontSize=55&fontColor=FFFFFF&fontAlignY=55"/>
 </p>
+
 
 
 
