@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Narean+Karthikeyan+K;Java+Developer;Software+Engineer+in+Progress"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&height=100&lines=Narean+Karthikeyan+K"/>
 </p>
+
 
 
 
