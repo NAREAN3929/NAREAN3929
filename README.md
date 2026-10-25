@@ -54,9 +54,9 @@ I'm a software engineer focused on **data engineering**. I design pipelines that
 ## Connect with me
 
 <p align="center">
-  <a href="mailto:narean3929@gmail.com" title="Gmail"><img src="Gmail.svg" width="40" height="40" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=narean3929@gmail.com" title="Gmail"><img src="Gmail.svg" width="40" height="40" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/narean3929" title="LinkedIn"><img src="Linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:narean3929@outlook.com" title="Outlook"><img src="Outlook.svg" width="40" height="40" alt="Outlook" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=narean3929@outlook.com" title="Outlook"><img src="Outlook.svg" width="40" height="40" alt="Outlook" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/dheeran__narean" title="Instagram"><img src="Instagram.svg" width="40" height="40" alt="Instagram" /></a>
 </p>
 
